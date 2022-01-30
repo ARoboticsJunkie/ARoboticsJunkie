@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ARoboticsJunkie
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning about robotics
+- 💞️ I’m looking to collaborate on FTC
+- 📫 How to reach me come to robotics
